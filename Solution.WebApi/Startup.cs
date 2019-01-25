@@ -18,7 +18,6 @@ namespace Solution.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddDbContext<PmiBaseDbContext>(options => options.UseSqlServer("Data Source=.;Initial Catalog=SolPmi;Integrated Security=True"));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
