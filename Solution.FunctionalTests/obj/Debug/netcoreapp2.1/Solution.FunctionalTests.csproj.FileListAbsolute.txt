@@ -1,0 +1,8 @@
+D:\xx\Solution\Solution.FunctionalTests\bin\Debug\netcoreapp2.1\Solution.FunctionalTests.deps.json
+D:\xx\Solution\Solution.FunctionalTests\bin\Debug\netcoreapp2.1\Solution.FunctionalTests.dll
+D:\xx\Solution\Solution.FunctionalTests\bin\Debug\netcoreapp2.1\Solution.FunctionalTests.pdb
+D:\xx\Solution\Solution.FunctionalTests\obj\Debug\netcoreapp2.1\Solution.FunctionalTests.csproj.CoreCompileInputs.cache
+D:\xx\Solution\Solution.FunctionalTests\obj\Debug\netcoreapp2.1\Solution.FunctionalTests.AssemblyInfoInputs.cache
+D:\xx\Solution\Solution.FunctionalTests\obj\Debug\netcoreapp2.1\Solution.FunctionalTests.AssemblyInfo.cs
+D:\xx\Solution\Solution.FunctionalTests\obj\Debug\netcoreapp2.1\Solution.FunctionalTests.dll
+D:\xx\Solution\Solution.FunctionalTests\obj\Debug\netcoreapp2.1\Solution.FunctionalTests.pdb

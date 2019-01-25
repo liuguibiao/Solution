@@ -1,0 +1,9 @@
+D:\xx\Solution\Solution.Infrastructure\bin\Debug\netcoreapp2.1\Solution.Infrastructure.deps.json
+D:\xx\Solution\Solution.Infrastructure\bin\Debug\netcoreapp2.1\Solution.Infrastructure.dll
+D:\xx\Solution\Solution.Infrastructure\obj\Debug\netcoreapp2.1\Solution.Infrastructure.csprojAssemblyReference.cache
+D:\xx\Solution\Solution.Infrastructure\obj\Debug\netcoreapp2.1\Solution.Infrastructure.csproj.CoreCompileInputs.cache
+D:\xx\Solution\Solution.Infrastructure\obj\Debug\netcoreapp2.1\Solution.Infrastructure.AssemblyInfoInputs.cache
+D:\xx\Solution\Solution.Infrastructure\obj\Debug\netcoreapp2.1\Solution.Infrastructure.AssemblyInfo.cs
+D:\xx\Solution\Solution.Infrastructure\bin\Debug\netcoreapp2.1\Solution.Infrastructure.pdb
+D:\xx\Solution\Solution.Infrastructure\obj\Debug\netcoreapp2.1\Solution.Infrastructure.dll
+D:\xx\Solution\Solution.Infrastructure\obj\Debug\netcoreapp2.1\Solution.Infrastructure.pdb

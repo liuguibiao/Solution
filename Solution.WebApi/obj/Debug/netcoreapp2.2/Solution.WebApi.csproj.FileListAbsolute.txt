@@ -1,0 +1,17 @@
+D:\xx\Solution\Solution.WebApi\bin\Debug\netcoreapp2.2\Solution.WebApi.deps.json
+D:\xx\Solution\Solution.WebApi\bin\Debug\netcoreapp2.2\Solution.WebApi.runtimeconfig.json
+D:\xx\Solution\Solution.WebApi\bin\Debug\netcoreapp2.2\Solution.WebApi.runtimeconfig.dev.json
+D:\xx\Solution\Solution.WebApi\bin\Debug\netcoreapp2.2\Solution.WebApi.dll
+D:\xx\Solution\Solution.WebApi\bin\Debug\netcoreapp2.2\Solution.WebApi.pdb
+D:\xx\Solution\Solution.WebApi\bin\Debug\netcoreapp2.2\Solution.Infrastructure.dll
+D:\xx\Solution\Solution.WebApi\bin\Debug\netcoreapp2.2\Solution.Infrastructure.pdb
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.csprojAssemblyReference.cache
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.csproj.CoreCompileInputs.cache
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.RazorAssemblyInfo.cache
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.RazorAssemblyInfo.cs
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.AssemblyInfoInputs.cache
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.AssemblyInfo.cs
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.RazorTargetAssemblyInfo.cache
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.csproj.CopyComplete
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.dll
+D:\xx\Solution\Solution.WebApi\obj\Debug\netcoreapp2.2\Solution.WebApi.pdb
